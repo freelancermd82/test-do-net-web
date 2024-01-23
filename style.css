@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    background-image: url("images/header.jpg");
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 50px 100px;text-align: center;
+
+}
+.header-title{
+    font-size: 50px;
+    color: #FFFFFF;
+}
+.header-description{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn-primary{
+    padding: 10px 20px;
+    border: none;
+    background: #de8549;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+/* donate today style */
+.donate-today{
+    background: #FFFFFF;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+.donate-title{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.donate-description{
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.donate-container{
+    background: #fcfcfc;
+    padding: 50px 100px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.donate-taka{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.donate-taka p{
+    background: #f1e8e8;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+/* out donate plan item styles */
+.donate-plan{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.donate-item{
+    display: flex;
+    gap: 30px;
+}
+.donate-item img{
+    height: 40px;
+    margin-bottom: 20px;
+}
+.donate-plan-title{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+.donate-plan-description{
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.food{
+    background: #abbfc2;
+    padding: 40px 30px;
+    border-radius: 5px;
+}
+.family{
+    background: #e0ddbc;
+    padding: 40px 30px;
+    border-radius: 5px;
+}
+.education{
+    background: #ded5ca;
+    padding: 40px 30px;
+    border-radius: 5px;
+}
+/* lives depend donate */
+.lives-donate-section{
+    background: #FFFFFF;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.lives-container{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+
+
+}
+.lives-title{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.lives-description{
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.lives-container img{
+    height: 450px;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+/* need us to survive */
+.survive{
+    background: #FFFFFF;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.survive-container{
+    display: flex;
+}
+.survive-container img{
+    height: 450px;
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.survive-title{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.survive-description{
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+/* Get us Updates */
+
+.Updates{
+    background: #FFFFFF;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    
+}
+.Updates-title{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.Updates-description{
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.Updates input[type=email] {
+    height: 20px;
+    width: 60%;
+    border: none;
+    background: #ded5ca;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.Updates form {
+    background: #eeaad4;
+    padding: 50px 60px;
+    border-radius: 8px;
+}
